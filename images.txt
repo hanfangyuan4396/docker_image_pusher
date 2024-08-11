@@ -8,7 +8,7 @@ postgres:15-alpine
 redis:6-alpine
 semitechnologies/weaviate:1.19.0
 langgenius/dify-sandbox:0.2.1
-sameersbn/squid:latest
+ubuntu/squid:latest
 nginx:latest
 # dify 0.6.16
 langgenius/dify-api:0.6.16
