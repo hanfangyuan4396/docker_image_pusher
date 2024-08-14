@@ -1,3 +1,6 @@
+# internvl
+qishisurenhhh/internvl:latest
+
 # npm
 jc21/nginx-proxy-manager:latest
 
