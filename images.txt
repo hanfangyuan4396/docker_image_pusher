@@ -1,3 +1,7 @@
+# dify 0.8.2
+langgenius/dify-api:0.8.2
+langgenius/dify-web:0.8.2
+
 # dify 0.8.0
 langgenius/dify-api:0.8.0
 langgenius/dify-web:0.8.0
@@ -16,6 +20,7 @@ redis:6-alpine
 semitechnologies/weaviate:1.19.0
 langgenius/dify-sandbox:0.2.1
 langgenius/dify-sandbox:0.2.7
+langgenius/dify-sandbox:0.2.8
 ubuntu/squid:latest
 nginx:latest
 
