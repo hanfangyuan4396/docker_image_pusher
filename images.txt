@@ -1,27 +1,17 @@
+# dify 0.11.0
+langgenius/dify-api:0.11.0
+langgenius/dify-web:0.11.0
+
 # dify 0.8.3
 langgenius/dify-api:0.8.3
 langgenius/dify-web:0.8.3
 
-# dify 0.8.0
-langgenius/dify-api:0.8.0
-langgenius/dify-web:0.8.0
-
-# dify 0.6.16
-langgenius/dify-api:0.6.16
-langgenius/dify-web:0.6.16
-
-# dify 0.6.15
-langgenius/dify-api:0.6.15
-langgenius/dify-web:0.6.15
-
 # dify base
+langgenius/dify-sandbox:0.2.10
+langgenius/dify-sandbox:0.2.9
 postgres:15-alpine
 redis:6-alpine
 semitechnologies/weaviate:1.19.0
-langgenius/dify-sandbox:0.2.1
-langgenius/dify-sandbox:0.2.7
-langgenius/dify-sandbox:0.2.8
-langgenius/dify-sandbox:0.2.9
 ubuntu/squid:latest
 nginx:latest
 
