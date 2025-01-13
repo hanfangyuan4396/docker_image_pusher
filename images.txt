@@ -1,3 +1,6 @@
+#vllm
+vllm/vllm-openai:latest
+
 # dify 0.14.2
 langgenius/dify-api:0.14.2
 langgenius/dify-web:0.14.2
