@@ -1,7 +1,7 @@
 
-# dify 0.15.1
-langgenius/dify-api:0.15.1
-langgenius/dify-web:0.15.1
+# dify 0.15.2
+langgenius/dify-api:0.15.2
+langgenius/dify-web:0.15.2
 
 # dify 0.14.2
 langgenius/dify-api:0.14.2
