@@ -1,3 +1,4 @@
+searxng/searxng:latest
 
 # dify 0.15.2
 langgenius/dify-api:0.15.2
