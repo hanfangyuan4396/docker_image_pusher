@@ -1,4 +1,5 @@
 # common
+ghcr.io/chroma-core/chroma:0.6.3
 node:22-alpine
 postgres:15-alpine
 redis:7-alpine
