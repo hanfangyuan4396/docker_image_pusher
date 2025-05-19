@@ -1,6 +1,9 @@
 # common
+python:3.11-slim
 python:3.12-slim-bookworm
+rabbitmq
 ghcr.io/chroma-core/chroma:0.6.3
+node:20-slim
 node:22-alpine
 postgres:15-alpine
 redis:7-alpine
