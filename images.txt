@@ -1,4 +1,5 @@
 # common
+redis:8.0-alpine
 python:3.11-slim
 python:3.12-slim-bookworm
 rabbitmq
