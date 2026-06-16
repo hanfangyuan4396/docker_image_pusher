@@ -1,4 +1,5 @@
 # common
+otel/opentelemetry-collector-contrib:0.122.1
 ghcr.io/astral-sh/uv:0.11.8
 redis:8.0-alpine
 python:3.11-slim
@@ -17,10 +18,6 @@ ghcr.io/chroma-core/chroma:0.4.15
 langgenius/dify-api:1.1.3
 langgenius/dify-web:1.1.3
 
-# dify 0.15.4
-langgenius/dify-api:0.15.4
-langgenius/dify-web:0.15.4
-
 
 # dify base
 langgenius/dify-plugin-daemon:0.0.6-local
@@ -36,7 +33,7 @@ nginx:latest
 jc21/nginx-proxy-manager:latest
 
 #vllm
-vllm/vllm-openai:latest
+# vllm/vllm-openai:latest
 
 
 #支持私库
