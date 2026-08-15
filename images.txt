@@ -1,4 +1,5 @@
 # common
+louislam/uptime-kuma:2
 otel/opentelemetry-collector-contrib:0.122.1
 ghcr.io/astral-sh/uv:0.11.8
 redis:8.0-alpine
@@ -6,8 +7,8 @@ python:3.11-slim
 python:3.12-slim-bookworm
 rabbitmq
 ghcr.io/chroma-core/chroma:0.6.3
-node:20-slim
-node:22-alpine
+# node:20-slim
+# node:22-alpine
 postgres:17-alpine
 postgres:15-alpine
 redis:7-alpine
@@ -30,7 +31,7 @@ ubuntu/squid:latest
 nginx:latest
 
 # npm
-jc21/nginx-proxy-manager:latest
+# jc21/nginx-proxy-manager:latest
 
 #vllm
 # vllm/vllm-openai:latest
