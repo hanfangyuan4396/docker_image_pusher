@@ -1,4 +1,5 @@
 # common
+vastai/test:self-test-v2-cuda-12.8
 louislam/uptime-kuma:2
 otel/opentelemetry-collector-contrib:0.122.1
 ghcr.io/astral-sh/uv:0.11.8
